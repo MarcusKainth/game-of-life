@@ -1,5 +1,7 @@
 from enum import Enum
 
+import numpy as np
+
 
 class Pattern(Enum):
     Random = 0

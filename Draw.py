@@ -8,6 +8,7 @@ import matplotlib.animation as animation
 
 class Draw:
     def __init__(self, pattern):
+        # Minimum size of 50 for other patterns to work correctly
         self.grid = Grid(50, pattern)
         self.game_of_life = Game(self.grid)
         self.fig, self.ax = plt.subplots()
@@ -26,7 +27,6 @@ class Draw:
         self.mat.set_data(new_grid)
         self.game_of_life.grid = new_grid
         return [self.mat]
-
 
     def run(self):
         plt.show()
