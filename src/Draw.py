@@ -1,6 +1,6 @@
-from Grid import Grid
-from Patterns import Pattern
-from Game import Game
+from grid import Grid
+from patterns import Pattern
+from game import Game
 
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation

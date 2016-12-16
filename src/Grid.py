@@ -1,6 +1,6 @@
 import numpy as np
 
-from Patterns import Pattern
+from patterns import Pattern
 
 
 class Grid:
