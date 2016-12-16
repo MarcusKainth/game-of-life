@@ -37,7 +37,7 @@ The project has been tested on Python 3.5.2 but in theory should work from versi
 It's possible to get the project to work on Python 2.7+ by not using enumeration.
 
 ## Authors
-Created for [University of Wolverhampton](https://www.wlv.ac.uk) [Computer Science](https://www.wlv.ac.uk/about-us/our-schools-and-institutes/faculty-of-science-and-engineering/school-of-mathematics-and-computer-science/) module 6CS008 by:
+Created for [University of Wolverhampton](https://www.wlv.ac.uk), [Computer Science](https://www.wlv.ac.uk/about-us/our-schools-and-institutes/faculty-of-science-and-engineering/school-of-mathematics-and-computer-science/) module 6CS008 (Computation and Complexity) by:
 
 [Marcus Kainth](https://www.marcuskainth.co.uk), [@marcuskainth](https://github.com/marcuskainth)
 
