@@ -1,5 +1,5 @@
 # Conway's Game of Life
-A presentation for 6CS008 (Computation and Complexity) at the University of Wolverhampton
+A presentation for 6CS008 (Computation and Complexity) at the University of Wolverhampton.
 
 <img src="https://raw.githubusercontent.com/marcuskainth/game_of_life/master/gol.gif" width="320px" height="320px" />
 
@@ -15,7 +15,7 @@ draw.run()
 ```
 
 ### Patterns
-Various patterns are hard-coded into the project, these are listed below
+Various patterns are hard-coded into the project, these are listed below.
 
 ```python
 class Pattern(Enum):
@@ -26,6 +26,15 @@ class Pattern(Enum):
     Glider = 4
     Spaceship = 5
 ```
+
+## Requirements
+- Python 3.4+
+- Numpy
+- Matplotlib
+
+The project has been tested on Python 3.5.2 but in theory should work from version 3.4 and later as enumeration is used.
+
+It's possible to get the project to work on Python 2.7+ by not using enumeration.
 
 ## Authors
 Created for [University of Wolverhampton](https://www.wlv.ac.uk) [Computer Science](https://www.wlv.ac.uk/about-us/our-schools-and-institutes/faculty-of-science-and-engineering/school-of-mathematics-and-computer-science/) module 6CS008 by:
