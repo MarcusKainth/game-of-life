@@ -14,6 +14,19 @@ draw = Draw(Pattern.Random)
 draw.run()
 ```
 
+### Patterns
+Various patterns are hard-coded into the project, these are listed below
+
+```python
+class Pattern(Enum):
+    Random = 0
+    Gun = 1
+    StillLife = 2
+    Oscillator = 3
+    Glider = 4
+    Spaceship = 5
+```
+
 ## Authors
 Created for University of Wolverhampton ([wlv.ac.uk](http://www.wlv.ac.uk)) by:
 
