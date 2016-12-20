@@ -1,5 +1,5 @@
 # Conway's Game of Life
-A presentation for 6CS008 (Computation and Complexity) at the University of Wolverhampton.
+A presentation for 6CS008 (Computation and Complexity) at the University of Wolverhampton which scored 100%.
 
 <img src="https://raw.githubusercontent.com/marcuskainth/game_of_life/master/gol.gif" width="320px" height="320px" />
 
